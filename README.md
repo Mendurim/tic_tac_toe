@@ -2,7 +2,8 @@
 * Basic tic tac toe game 
 * CSS styled game board
 * Game logic via jQuery
-==Methods
+
+##Methods
 * jQuery class methods - ```addClass()```, ```removeClass()```, ```hasClass()```
 * Logic & Conditionals 
 1. 1 turn user
