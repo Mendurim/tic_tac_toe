@@ -24,7 +24,7 @@ h1{
 
 #board li {
 	float: left; 
-	margin-right: 10px; 
+	margin: 10px; 
 	height: 70px;
 	width: 70px; 
 	font-size: 55px; 
@@ -61,5 +61,5 @@ footer {
 	display: block; 
 	text-align: center; 
 	padding-top: 20px;
-	
+
 }
