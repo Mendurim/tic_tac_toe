@@ -1,5 +1,6 @@
 body{
-	background: #1c1b1b; 
+	background-image: url(https://pixabay.com/get/e837b00920f1023ed1534705fb094796e371e4dc18ac104590f7c879a3ebb5bc/juggler-1216853_1920.jpg);
+	/*background: #1c1b1b; */
 	color: #666; 
 	font-family: "Arial", sans-serif; 
 }
@@ -8,6 +9,8 @@ h1{
 	text-align: center; 
 	color: #fff;
 }
+
+
 
 .clearfix {
 	clear: both;
@@ -35,7 +38,7 @@ h1{
 	border-radius: 5px; 
 }
 
-#board li:hover {
+#board li:hover, #reset:hover {
 	cursor: pointer;
 	background-color: #000; 
 }
